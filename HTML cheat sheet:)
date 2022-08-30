@@ -17,6 +17,7 @@
 <body>
 
  <div>   div tags are used for design layout/ and to help you structure your web page   </div> 
+         <!-- you can style thses div tags with CSS and give them a specific width or lenght -->
     
     <!-- this is how to create headers or smaller text on a web page,  H1 goes all the way to H6, the higher the # the bigger the header -->
     <H1> Welcolme to our web page </H1>
